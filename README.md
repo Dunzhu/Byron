@@ -1,5 +1,6 @@
 ## Github
-全球最大的社交编程网站
+
+全球最大的社交编程网站-代码版本控制系统
 
 
 ## Github有什么作用
@@ -11,6 +12,14 @@
 3.个人博客_URL访问
 
 4.个人简历
+
+5.团队合作利器（使用分支）
+
+6.代码丢失
+
+7.代码还原
+
+8.记录代码版本
 
 ## 使用Github 
 
@@ -104,6 +113,33 @@ A分支的内容上传到github git push origin A
 
 
 11.删除分支 git branch -d A 
+
+12.pull request 请求合并
+
+13.git常用的操作命令
+
+    git init 初始化git仓库
+
+     mkdir zixin
+    
+   git status 查看状态
+
+   git  add  将文件添加到git仓库的暂存区  git add add.txt 把add.txt文件添加到git仓库的暂存区里 newfile表示文件可以提交commit
+
+   git commit 将暂存区的文件提交到git仓库里去 git commit -m “add add.txt"
+
+   git log  查看日志
+    
+  git branch 查看当前仓库的分支
+
+  git branch xz 创建xz分支
+
+  git checkout xz 当前分支切换到xz
+
+  git  branch -d xz 删除xz分支
+
+  
+
 
 
  
