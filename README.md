@@ -9,3 +9,6 @@ from github push到本地
 
 
 local file push github！！！
+
+
+2018年5月30日第二天早上成功！从local github！  
