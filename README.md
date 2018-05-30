@@ -1,9 +1,8 @@
-##Github 知识库
+## Github 知识库
 
 全球最大的社交编程网站
 
-
-##Github有什么作用
+## Github有什么作用
 
 1.代码托管
 
@@ -16,13 +15,12 @@
 ## 使用Github 
 
  1.stars “收藏“
-
+ 
  2.fork  “复制”_编辑
 
- 3.repository “仓库”
+3.repository “仓库”
   
- 4.watch  “观看“ _
- 事实获取更新的内容
+4.watch  “观看“ _事实获取更新的内容
 
 5.gist “代码片段” _分享gist的内容
 
