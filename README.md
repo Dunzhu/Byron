@@ -1,6 +1,6 @@
-## Github 知识库
-
+## Github
 全球最大的社交编程网站
+
 
 ## Github有什么作用
 
@@ -15,12 +15,13 @@
 ## 使用Github 
 
  1.stars “收藏“
- 
+
  2.fork  “复制”_编辑
 
-3.repository “仓库”
+ 3.repository “仓库”
   
-4.watch  “观看“ _事实获取更新的内容
+ 4.watch  “观看“ _
+ 事实获取更新的内容
 
 5.gist “代码片段” _分享gist的内容
 
@@ -86,4 +87,40 @@ C.从github推送到本地
 Your local changes to the following files would be overwritten by merge:
 
 解决方案：https://blog.csdn.net/misakaqunianxiatian/article/details/51103734
-    16:39
+
+9.git 	branch -git分支	
+  
+新建一个A分支： git branch A 
+
+切换到A 分支： git checkout A -A分支的内容与master的内容完全一样
+
+ git add README.md ，git commit  -m "feature A"
+
+A分支的内容上传到github git push origin A 
+
+10.git merge   合并
+
+  git merge A _把A新加的功能合并到master
+
+
+11.删除分支 git branch -d A 
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
