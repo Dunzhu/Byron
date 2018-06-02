@@ -130,19 +130,31 @@ A分支的内容上传到github git push origin A
 
    git log  查看日志
     
-  git branch 查看当前仓库的分支
+   git branch 查看当前仓库的分支
 
-  git branch xz 创建xz分支
+   git branch xz 创建xz分支
 
-  git checkout xz 当前分支切换到xz
+   git checkout xz 当前分支切换到xz
 
-  git  branch -d xz 删除xz分支
+   git  branch -d xz 删除xz分支
 
-  
+## Android 开发阶段
 
+  1.安装JDK，SDK、Android Studio能够快速开发Android应用程序
 
+  2.Java 7 语言适用于Android开发
 
- 
+  3.使用Android Studio创建项目
+   
+    A.What is IntelliJ IDEA
+    
+      IntelliJ IDEA是Java集成开发环境，它支持多种操作系统windows、MacOSX、Linux
+    
+   B.安装Android模拟器的步骤
+    
+      a）安装Intel x86 Emulator Accelerator(HAXM installer)
+   
+    008course
 
 
 
