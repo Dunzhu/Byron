@@ -153,9 +153,48 @@ A分支的内容上传到github git push origin A
    B.安装Android模拟器的步骤
     
       a）安装Intel x86 Emulator Accelerator(HAXM installer)
-   
-    008course
+      
+      b)安装Android模拟器提示以下错误
 
+      b-1:question：unfortunately,the process com.android.phone has stopped
+
+          Answer：卸载之前的AVD，重新安装AND即可
+    
+      b-2:Suggestion: use a compatible library with a minSdk of at most 14
+
+          Answer: checkout  run APP is Mobile
+
+     C）Android虚拟机上如何运行自己开发的APP
+       
+        windows上按Alt-Tab 、 MAC上CMD+Tab
+
+    D）创建新的Virtual Devices
+   
+     d-1:释放现有的虚拟设备的内存
+     
+    d-2：Memory RAM set 1024
+
+  4.更新Android studio 版本 
+ 
+      set-Updates-Stable Channel button Check Now
+
+  5.研究Android项目与结构
+   
+       java、building脚本控制语句
+
+  6.configuring Android Studio
+    
+     控制Android Studio 外观和行为
+
+      a) Editor 设置调试代码、代码颜色、是否显示行号
+
+
+      now listening 016 course
+
+    
+    
+
+  
 
 
 
