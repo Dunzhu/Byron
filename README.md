@@ -189,7 +189,67 @@ A分支的内容上传到github git push origin A
       a) Editor 设置调试代码、代码颜色、是否显示行号
 
 
-      now listening 016 course
+ 7. 如何处理一个项目的Jar文件
+
+   Project—>tv->build.gradle 
+ 
+   7-a:compileSdkVersion 22(22表示当前使用的API版本)，targetSdkVersion 22 (22表示当前使用的API版本);
+
+   7-b:implementation 'com.android.support:leanback-v17:22.0.1'   22表示当前使用的API版本;
+
+   build.gradle文件使用libs里面Jar文件
+
+020
+
+8.1G-4G的介绍
+
+  1G 大哥大， 语音通话
+
+  2G  小灵通 gsm 发短信 wap.baidu.com，语音+低速数据业务
+
+  3G  沃 网页浏览、音乐等基本数据业务
+
+  4G lte  传输速度比3G快，100M/s 能流畅承载视频、电话会议等业务
+ 
+  5G 华为 6亿美金  10G/s 小公司卖产品大公司卖版权（标准） 
+
+9.Android 操作系统
+
+   创始人：安迪鲁宾，相机系统演变成安卓系统；
+ 
+   logo由来：不带任何的种族及性别的歧视。
+ 
+   Android 系统的体系结构：https://blog.csdn.net/itluochen/article/details/52583442
+
+   Example：实现闹钟：先从应用层通知到（c语言或者C++）编写的写的中
+
+   层，最后中层栏在再次通知Linux层音频驱动能够控制硬件设；
+
+
+    Android系统的构成：
+
+    [1]linux;
+
+    [2]:函数层 由C或者C++写的；
+
+    [3]：Application frameWork 应用框架层；
+
+    [4] 最上层：应用层
+ 
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
 
     
     
